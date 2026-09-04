@@ -1,5 +1,8 @@
 # gemini-api-project
 
+**Repo:** https://github.com/ishanshaurya/gemini-api-project
+**Project spec:** https://roadmap.sh/projects/openai-api-python
+
 Minimal Python script demonstrating the Gemini API via `google-genai`.
 
 ## Setup
